@@ -47,13 +47,13 @@ The following files are present inside datasets folder:
 - Conclusion
 
 ## Technologies Used
-- Python - version 3.8.8
-- Numpy - version 1.20.1
-- Pandas - version 1.2.4
-- Matplotlib - version 3.3.4
-- Seaborn - version 0.11.1
-- sklearn - version 0.24.1
-- statsmodels - version 0.12.2.
+- Python - version 3.10.2
+- Numpy - version 1.22.3
+- Pandas - version 1.4.1
+- Matplotlib - version 3.5.1
+- Seaborn - version 0.12.2
+- sklearn - version 1.0.2
+- statsmodels - version 0.14.0.
 
 ## Contact (GitHub)
 Created by: 
